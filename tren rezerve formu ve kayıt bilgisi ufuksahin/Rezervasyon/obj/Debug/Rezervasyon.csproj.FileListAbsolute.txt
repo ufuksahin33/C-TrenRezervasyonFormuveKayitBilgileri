@@ -1,0 +1,13 @@
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.exe.config
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.exe
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\bin\Debug\Rezervasyon.pdb
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.AboutBox1.resources
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.Form1.resources
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.KayıtFormu.resources
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.Properties.Resources.resources
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.exe
+C:\Users\MyPC\Desktop\rezervasyon\Rezervasyon\obj\Debug\Rezervasyon.pdb
